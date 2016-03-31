@@ -110,15 +110,15 @@ a:after {
 
 @media (max-width:768px) {
   h1 {
-    font-size: 40px;
+    font-size: 34px;
   }
 
   #photo img {
-    -webkit-transform: scale(0.85) rotate(-3deg);
-    -moz-transform: scale(0.85) rotate(-3deg);;
-    -ms-transform: scale(0.85) rotate(-3deg);;
-    -o-transform: scale(0.85) rotate(-3deg);;
-    transform:  scale(0.85) rotate(-3deg);;
+    -webkit-transform: scale(0.80) rotate(-3deg);
+    -moz-transform: scale(0.80) rotate(-3deg);;
+    -ms-transform: scale(0.80) rotate(-3deg);;
+    -o-transform: scale(0.80) rotate(-3deg);;
+    transform:  scale(0.80) rotate(-3deg);;
   }
 
   #photo img:hover {
