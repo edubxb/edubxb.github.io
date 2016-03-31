@@ -113,6 +113,11 @@ a:after {
     font-size: 34px;
   }
 
+  #photo {
+    margin-top: 7%;
+  }
+
+
   #photo img {
     -webkit-transform: scale(0.80) rotate(-3deg);
     -moz-transform: scale(0.80) rotate(-3deg);;
